@@ -12,6 +12,16 @@ body {
   background: #f7f5f0;
 }
 
+p {
+  margin-top: 0.15em;
+  margin-bottom: 0.15em;
+}
+
+li {
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+}
+
 h2 {
   color: rgb(250, 113, 75);
 }
@@ -196,6 +206,9 @@ ul.skills {
   transition: all .5s;
 }
 
+.Education-list {
+  padding-bottom: 0;
+}
 
 footer {
   width: 100%;
